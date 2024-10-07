@@ -1,0 +1,12 @@
+[submodule "dev-container-examples/vscode-remote-try-python"]
+	path = dev-container-examples/vscode-remote-try-python
+	url = https://github.com/microsoft/vscode-remote-try-python.git
+[submodule "dev-container-examples/vscode-remote-try-java"]
+	path = dev-container-examples/vscode-remote-try-java
+	url = https://github.com/microsoft/vscode-remote-try-java.git
+[submodule "dev-container-examples/vscode-remote-try-go"]
+	path = dev-container-examples/vscode-remote-try-go
+	url = https://github.com/microsoft/vscode-remote-try-go.git
+[submodule "dev-container-examples/vscode-remote-try-dotnet"]
+	path = dev-container-examples/vscode-remote-try-dotnet
+	url = https://github.com/microsoft/vscode-remote-try-dotnet.git
